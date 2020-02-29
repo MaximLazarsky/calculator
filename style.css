@@ -34,9 +34,9 @@ main {
     box-sizing: border-box;
     padding-top: 10px;
     padding-right: 10px;
-    text-align: end;
     font-size: 25px;
-
+    display: flex;
+    justify-content: flex-end;
 }
 
 .keyboard {
